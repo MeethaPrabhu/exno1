@@ -93,7 +93,8 @@ delid
 ```
 sns.boxplot(x='sepal_width',data=delid)
 ```
-![alt text](image-10.png)
+![image](https://github.com/MeethaPrabhu/exno1/assets/119401038/15039a67-a808-453d-b085-563d5a77c054)
+
 
 ## ZSCORE
 ```
